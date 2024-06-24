@@ -1,0 +1,33 @@
+h2{
+    color: rgb(19, 4, 33);
+    margin-top :50px;
+    margin-left: 50px;
+  }
+
+ .header3{
+    color: rgb(127, 151, 22);
+  }
+  #header4{
+    color: brown;
+    
+  }
+  .yme{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px ;
+    font-style: italic; 
+    font-weight:bold ;
+    opacity: 0.3;
+}
+  #hg{
+    font-weight: bold;
+    color: aqua;
+  }
+  #seco{
+    color: black;
+    letter-spacing: 0.25em;
+    line-height: 20px;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+  }

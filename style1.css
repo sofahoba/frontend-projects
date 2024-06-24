@@ -1,0 +1,12 @@
+#header1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+#paragraph1{
+    color: blue;
+    line-height: 20px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
